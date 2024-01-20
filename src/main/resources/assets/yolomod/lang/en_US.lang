@@ -1,0 +1,13 @@
+itemGroup.YOLO=YOLO
+tile.yoloblock.name=YOLOblock
+item.yoloitem.name=YOLOitem
+tile.yoloore.name=YOLOore
+tile.yololog.name=YOLOwood
+tile.yoloplanks.name=YOLOplanks
+tile.yololeaves.name=YOLOleaves
+tile.yolospaling.name=YOLOsapling
+item.yolopickaxe.name=YOLOpickaxe
+item.yoloaxe.name=YOLOaxe
+item.yoloshovel.name=YOLOshovel
+item.yolosword.name=YOLOsword
+item.yolohoe.name=YOLOhoe

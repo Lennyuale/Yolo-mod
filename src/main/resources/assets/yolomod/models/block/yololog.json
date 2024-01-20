@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "yolomod:blocks/yololog_top",
+    "side": "yolomod:blocks/yololog_side"
+  }
+}

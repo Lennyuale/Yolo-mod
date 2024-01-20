@@ -1,0 +1,13 @@
+itemGroup.YOLO=YOLO
+tile.yoloblock.name=YOLOblock
+item.yoloitem.name=YOLOitem
+tile.yoloore.name=YOLOerz
+tile.yololog.name=YOLOholz
+tile.yoloplanks.name=YOLOholzbretter
+tile.yololeaves.name=YOLOlaub
+tile.yolospaling.name=YOLOsetzling
+item.yolopickaxe.name=YOLOspitzhacke
+item.yoloaxe.name=YOLOaxt
+item.yoloshovel.name=YOLOschaufel
+item.yolosword.name=YOLOschwert
+item.yolohoe.name=YOLOfeldhacke
